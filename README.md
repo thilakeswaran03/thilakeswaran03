@@ -15,6 +15,11 @@
 - 🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science** at **Saveetha Engineering College**
 - 💡 I'm passionate about building real-world solutions using **AI**, **Machine Learning**, and **Full-Stack Development**
 
+## 🔍  Let’s Get in Touch
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thilakeswaran03)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thilakeswaran)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
+
 ## 📊 GitHub Stats:
 <p align = "center"> <img src="https://github-readme-stats.vercel.app/api?username=thilakeswaran03&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Stats"></p>
 
@@ -24,16 +29,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakeswaran03&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="200"/></td>
+    <td>
+      <blockquote> 
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        <p><i>Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.</i></p>
+        <p><strong>-- Steve Jobs</strong></p>
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-
-<figure><embed src="https://wakatime.com/share/@b5fc0bfb-d9e8-4b2d-bc78-fba0473fbbd6/aa036c21-8fc8-4068-a037-68918288e686.svg"></embed></figure>
-
-## 🔍  Let’s Get in Touch
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thilakeswaran03)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thilakeswaran)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-
-
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
 
